@@ -2,7 +2,7 @@ name: Daily Empirical Likelihood Run
 
 on:
   schedule:
-    - cron: '45 00 * * 1-6'
+    - cron: '45 02 * * 1-6'
   workflow_dispatch:
 
 jobs:
